@@ -1,6 +1,6 @@
 # convert-it
 
-[![Github Pages Status](https://github.com/mooyoul/convert-it/workflows/gh-pages/badge.svg)](https://github.com/mooyoul/geo-pattern/actions)
+[![Github Pages Status](https://github.com/mooyoul/convert-it/workflows/gh-pages/badge.svg)](https://github.com/mooyoul/convert-it/actions)
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![MIT license](http://img.shields.io/badge/license-MIT-blue.svg)](http://mooyoul.mit-license.org/)
 
