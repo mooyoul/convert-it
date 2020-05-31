@@ -1,5 +1,7 @@
 {
   "extends": [
-    "config:base"
+    "@prescott",
+    "@prescott:nodejs12",
+    "@prescott:semantic-commit"
   ]
 }
