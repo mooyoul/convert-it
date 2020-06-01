@@ -56,6 +56,7 @@ module.exports = {
                 corejs: 3,
               }],
             ],
+            sourceType: 'script',
           },
         }, {
           loader: 'ts-loader',
